@@ -1,5 +1,5 @@
 # soi-monitory
-Symulacja urzędu przy użyciu 4 procesów oraz 4 kolejek. Implementacja oparta na wykorzystaniu monitorów.
+Symulacja urzędu przy użyciu 4 procesów oraz 4 kolejek. Implementacja oparta na wykorzystaniu wątków i monitorów.
 
 ![Diagram](./diagram.png)
 
